@@ -2,6 +2,8 @@
 
 Portfólio de desenvolvimento de software, com projetos, capturas das aplicações, detalhes técnicos e um notebook 3D interativo.
 
+**[Acessar o portfólio](https://natatgh-portfolio.vercel.app/)**
+
 ## Projetos apresentados
 
 - **Lumen** — compartilhamento de tela P2P com WebRTC, web e desktop.
